@@ -21,7 +21,7 @@ dataset$Purchased = factor(dataset$Purchased,
                          levels = c('No', 'Yes'),
                          labels = c(0, 1))
                           
-# splitting the data into training set and test set
+# Splitting the data into training set and test set
 
 # install.packages('caTools') # installs caTools library
 # library(caTools) # select the library caTools
