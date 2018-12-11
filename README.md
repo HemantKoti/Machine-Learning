@@ -1,2 +1,2 @@
 # MachineLearning
-Repository created to learn machine learning concepts from various online MOOCs.
+Machine learning repository which includes code and concepts learnt from various online MOOCs.
